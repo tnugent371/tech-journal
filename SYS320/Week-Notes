@@ -23,3 +23,5 @@ r: 4
 w: 2
 x: 1
 Permissions for a group/owner are then expressed as a sum, IE: rwx = 7, as 4 + 2 + 1 = 7
+And as a set of four for owner, group, and other, IE: 700 = owner has all perms; everyone else has none
+
