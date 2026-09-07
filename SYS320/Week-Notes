@@ -1,1 +1,25 @@
--
+09/07/26
+
+Command Index-
+whoami: Returns current user name
+id: Returns current user ID as well as your groups
+ls -l: See the permissions for a file or directory
+chmod: Change permissions on a file or directory.
+
+File Permissions-
+r: Read
+w: Write
+x: Execute
+rwx rwx rwx indicates permissions of owner, group, and other in that order
+a dash indicates a missing permission, IE: rw- means they cannot execute.
+
+Directory Permissions-
+r: List directory contents
+w: Create/delete/rename entries
+x: Traverse/access
+
+Permissions as numbers-
+r: 4
+w: 2
+x: 1
+Permissions for a group/owner are then expressed as a sum, IE: rwx = 7, as 4 + 2 + 1 = 7
