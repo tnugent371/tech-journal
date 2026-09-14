@@ -4,7 +4,13 @@ Command Index-
 whoami: Returns current user name
 id: Returns current user ID as well as your groups
 ls -l: See the permissions for a file or directory
-chmod: Change permissions on a file or directory.
+chmod: Change permissions on a file or directory
+grep: Search text for matching string
+sort: (Take a guess) Sorts a list
+uniq: Removes duplicates from a list
+wc: Counts lines, words, bytes, or characters in a given input
+cut: Cuts specified part of a file
+
 
 File Permissions-
 r: Read
@@ -24,4 +30,17 @@ w: 2
 x: 1
 Permissions for a group/owner are then expressed as a sum, IE: rwx = 7, as 4 + 2 + 1 = 7
 And as a set of four for owner, group, and other, IE: 700 = owner has all perms; everyone else has none
+
+Data Streams-
+stdin: Command input
+stdout: Command output/results
+stderr: Diagnostic/errors
+
+Output can be redirected to go to a file or into another command
+>: Set file to stdout
+>>: Append stdout to file
+2>: Set file to stderr
+|: Set input of next command to stdout
+
+File outputs can be grouped as well, like this {cmd1; cmd2; cmd3;} > file.txt
 
