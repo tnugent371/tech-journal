@@ -5,15 +5,15 @@
 .Set Cabinet=on
 .Set Compress=on
 
-C:\temp\directories\01_user.txt
-C:\temp\directories\02_processes.txt
-C:\temp\directories\03_connections.txt
-C:\temp\directories\04_services.txt
-C:\temp\directories\05_users.txt
-C:\temp\directories\06_groups.txt
-C:\temp\directories\07_admins.txt
-C:\temp\directories\08_network.txt
-C:\temp\directories\09_firewall.txt
-C:\temp\directories\10_arp.txt
-C:\temp\directories\11_smb.txt
-C:\temp\directories\12_system.txt
+C:\temp\enumerations\01_user.txt
+C:\temp\enumerations\02_processes.txt
+C:\temp\enumerations\03_connections.txt
+C:\temp\enumerations\04_services.txt
+C:\temp\enumerations\05_users.txt
+C:\temp\enumerations\06_groups.txt
+C:\temp\enumerations\07_admins.txt
+C:\temp\enumerations\08_network.txt
+C:\temp\enumerations\09_firewall.txt
+C:\temp\enumerations\10_arp.txt
+C:\temp\enumerations\11_smb.txt
+C:\temp\enumerations\12_system.txt
