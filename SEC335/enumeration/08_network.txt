@@ -1,0 +1,27 @@
+﻿
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-64LA2VE
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : cyber.local
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : cyber.local
+   Description . . . . . . . . . . . : Intel(R) PRO/1000 MT Network Connection
+   Physical Address. . . . . . . . . : BC-24-11-49-1F-82
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.0.17.46(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Wednesday, September 9, 2026 7:24:43 AM
+   Lease Expires . . . . . . . . . . : Tuesday, September 22, 2026 3:24:56 PM
+   Default Gateway . . . . . . . . . : 10.0.17.2
+   DHCP Server . . . . . . . . . . . : 10.0.17.2
+   DNS Servers . . . . . . . . . . . : 10.0.17.2
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+   Connection-specific DNS Suffix Search List :
+                                       cyber.local
